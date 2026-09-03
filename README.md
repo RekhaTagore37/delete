@@ -1,1 +1,2 @@
 #  deletefile 
+ok deleted
